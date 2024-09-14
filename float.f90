@@ -11,6 +11,6 @@ program float
     float64 = 1.0_dp
 
     print *, 'Single precision float: ', float32
-    print *, 'Double repcision float: ', float64
+    print *, 'Double precision float: ', float64
 
 end program float
